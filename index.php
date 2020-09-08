@@ -1,6 +1,6 @@
 /*
 
-teste de comunicação repositório local,
+primeiro teste de comunicação repositório local,
 com o repositório do github
 
 */
